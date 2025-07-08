@@ -6,6 +6,7 @@
     @viteReactRefresh
     @vite(['resources/js/app.jsx', 'resources/css/app.css'])
     @inertiaHead
+    <link rel="icon" type="image/x-icon" href="https://homesourcesystems.com/wp-content/uploads/2025/05/MobileLogo.svg">
 </head>
 <body>
     @inertia
